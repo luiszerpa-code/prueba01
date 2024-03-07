@@ -1,4 +1,5 @@
 # Lets get started with this challenge
+___
 
 This challenge is to learn how to start using **Markdown**.
 
@@ -12,3 +13,10 @@ Right now this is really basic.
 
 ***Luis Zerpa***
 
+## Lets continue with some new things.
+___
+
+> This is a new characteristic.
+>> This was found on the **Markdown** Website.
+
+Awesome!
