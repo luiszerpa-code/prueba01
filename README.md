@@ -20,3 +20,14 @@ ___
 >> This was found on the **Markdown** Website.
 
 Awesome!
+
+### Some more time, lets try something else.
+
+>#### This new **Markdown** thing is perfect.
+>
+> - Challenge complete.
+> - Testing new ***options***.
+>
+> Everything is going according to the plan!
+
+***Luis Zerpa***
