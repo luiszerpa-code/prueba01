@@ -21,7 +21,7 @@ ___
 
 Awesome!
 
-### Some more time, lets try something else.
+### We have some time left, lets try something else.
 
 >#### This new **Markdown** thing is perfect.
 >
